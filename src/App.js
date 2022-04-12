@@ -1,4 +1,4 @@
-import logo4 from "./logo4.png";
+import logo5 from "./logo5.png";
 import './App.css';
 import Dictionary from "./Dictionary";
 
@@ -7,10 +7,11 @@ export default function App() {
     <div className="App">
       <div className ="container">
       <header className="App-header">
-        <img src={logo4} className="App-logo" alt="logo" />
+        <img src={logo5} className="App-logo" alt="logo" />
+        <h2 class="result-main"> Dictionary Search</h2>
      </header>
      <main>
-       <Dictionary />
+       <Dictionary defaultKeyword="sunset"/>
      </main>
 
 
