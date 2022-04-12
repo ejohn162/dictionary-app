@@ -1,3 +1,11 @@
-li{
-    list-style: none;
-}
+.Synonyms {
+    margin: 15px 0 0;
+    padding: 0;
+  }
+  
+  .Synonyms li {
+    font-size: 13px;
+    display: inline-block;
+    padding-right: 10px;
+    line-height: 1;
+  }

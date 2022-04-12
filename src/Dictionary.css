@@ -1,9 +1,6 @@
-.Dictionary {
-    text-align: center;
-}
-
 body{
     background-color: #2FA4FF;
+    color: #0E185F;
 
 }
 
@@ -20,3 +17,13 @@ body{
     padding: 6px 4px;
     border: 1px solid #ddd;
 }
+.result-main{
+    padding-bottom:30px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 64px;
+    color: #0E185F;
+    text-align: center;
+    margin-right:200px;
+    margin-top: 20px;
+   }
+ 
