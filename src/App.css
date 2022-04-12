@@ -1,8 +1,9 @@
 .App-logo {
 max-width:250px;
 display:block;
-padding-top:20px;
 float:left;
+position:relative;
+top:37px;
 
 }
 
